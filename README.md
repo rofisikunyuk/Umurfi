@@ -1,4 +1,5 @@
 # Umurfi
+<img src="
 <p>projek python sederhana untuk mengetahui berapa umur kita sekarang</p>
 <h3>Cara menginstal Umurfi</h3>
 <p><code>apt-get update</code></p>
