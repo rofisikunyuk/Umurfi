@@ -1,7 +1,7 @@
 # Baner
 import pyfiglet
 
-ascii_banner = pyfiglet.figlet_format("umurfi")
+ascii_banner = pyfiglet.figlet_format("Umurfi")
 print(ascii_banner)
 # masukan nama
 a = input("[+] Masukan Nama Anda: ")
