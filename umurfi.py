@@ -12,6 +12,6 @@ d = int(input("[+] Masukan Tahun Lahir Anda: "))
 # Tahun sekrang
 e = 2022
 # Hasil
-print("[!] Hai",a,"Kamu Lahir Pada Tanggal",b,c,d)
+print("[>>] Hai",a,"Kamu Lahir Pada Tanggal",b,c,d)
 print("[>>] Umur Kamu Sekarang Adalah",e - d,"Tahun.")
 print("\n")
