@@ -4,10 +4,10 @@ import pyfiglet
 ascii_banner = pyfiglet.figlet_format("Umurfi")
 print(ascii_banner)
 # masukan nama
-a = input("\033[1;31m[+]\033[1;37m Masukan Nama Anda: ")
+a = str(input("\033[1;31m[+]\033[1;37m Masukan Nama Anda: "))
 # Masukan tahun kelahiran
 b = int(input("\033[1;31m[+]\033[1;37m Masukan Tanggal Lahir Anda: "))
-c = input("\033[1;31m[+]\033[1;37m Masukan Bulan Lahir Anda: ")
+c = str(input("\033[1;31m[+]\033[1;37m Masukan Bulan Lahir Anda: "))
 d = int(input("\033[1;31m[+]\033[1;37m Masukan Tahun Lahir Anda: "))
 # Tahun sekrang
 e = 2022
