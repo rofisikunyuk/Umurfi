@@ -1,5 +1,4 @@
 # Umurfi
-<img src="https://github.com/rofisikunyuk/umurfi/blob/main/Screenshot/20220211_181451.png" width="350" height="165">
 <p>projek python sederhana untuk mengetahui berapa umur kita sekarang</p>
 <h3>Cara menginstal</h3>
 <p><code>apt-get update</code></p>
