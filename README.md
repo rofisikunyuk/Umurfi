@@ -1,6 +1,6 @@
 # Umurfi
 <p>projek python sederhana untuk mengetahui berapa umur kita sekarang</p>
-<h3>Cara menginstal</h3>
+<h3>Cara menginstal Umurfi</h3>
 <p><code>apt-get update</code></p>
 <p><code>apt-get upgrade</code></p>
 <p><code>apt-get install python3</code></p>
