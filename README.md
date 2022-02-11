@@ -9,5 +9,5 @@
 <p><code>git clone https://github.com/rofisikunyuk/Umurfi</code></p>
 <p><code>cd Umurfi</code></p>
 <p><code>pip3 install pyfiglet</code></p>
-<p><code>python3 umurfi.py</code></p>
+<p><code>python3 Umurfi.py</code></p>
 
